@@ -32,5 +32,5 @@ The Objective Tennis Counter Computer is a simple Java application designed to t
     ```
 
 ## 📬 Contact
-- 📧 **Email:** your-email@example.com
+- 📧 **Email:** tomaskotik08@gmail.com
 - 🌐 **GitHub:** [github.com/trix-code](https://github.com/trix-code)
